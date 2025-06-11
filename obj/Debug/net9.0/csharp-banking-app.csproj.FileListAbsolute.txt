@@ -12,3 +12,4 @@
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.pdb
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.genruntimeconfig.cache
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/ref/csharp-banking-app.dll
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.sourcelink.json
