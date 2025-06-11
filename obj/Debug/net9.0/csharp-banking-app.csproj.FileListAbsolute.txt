@@ -1,0 +1,14 @@
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/csharp-banking-app
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/csharp-banking-app.deps.json
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/csharp-banking-app.runtimeconfig.json
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/csharp-banking-app.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/csharp-banking-app.pdb
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.AssemblyInfoInputs.cache
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.AssemblyInfo.cs
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.csproj.CoreCompileInputs.cache
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.dll
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/refint/csharp-banking-app.dll
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.pdb
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.genruntimeconfig.cache
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/ref/csharp-banking-app.dll
