@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "nZuU9XtxRzo=",
+  "dgSpecHash": "PkPWsJdWI2Q=",
   "success": true,
   "projectFilePath": "/Users/bhagyasriramkumar/csharp-banking-app/csharp-banking-app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.codeanalysis.fxcopanalyzers/3.3.2/microsoft.codeanalysis.fxcopanalyzers.3.3.2.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.3.2/microsoft.codeanalysis.versioncheckanalyzer.3.3.2.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.codequality.analyzers/3.3.2/microsoft.codequality.analyzers.3.3.2.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.objectpool/9.0.6/microsoft.extensions.objectpool.9.0.6.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.netcore.analyzers/3.3.2/microsoft.netcore.analyzers.3.3.2.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/microsoft.netframework.analyzers/3.3.2/microsoft.netframework.analyzers.3.3.2.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/nlog/6.0.0/nlog.6.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/nlog.extensions.logging/6.0.0/nlog.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/bhagyasriramkumar/.nuget/packages/system.buffers/4.6.1/system.buffers.4.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

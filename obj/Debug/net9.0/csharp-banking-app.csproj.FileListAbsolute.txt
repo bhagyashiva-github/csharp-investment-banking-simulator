@@ -13,3 +13,16 @@
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.genruntimeconfig.cache
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/ref/csharp-banking-app.dll
 /Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.sourcelink.json
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/NLog.config
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/NLog.dll
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/NLog.Extensions.Logging.dll
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-banking-app.csproj.AssemblyReference.cache
+/Users/bhagyasriramkumar/csharp-banking-app/obj/Debug/net9.0/csharp-b.EBEE4459.Up2Date
+/Users/bhagyasriramkumar/csharp-banking-app/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
