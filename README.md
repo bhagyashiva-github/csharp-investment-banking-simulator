@@ -1,4 +1,4 @@
-# csharp-banking-app
+# C# Investment Banking Simulator
 This is a repository of C# programming that simulates investment banking system.
 The project implements all the important C# .NET concepts independently in seperate folders. 
 
@@ -39,8 +39,5 @@ The following concepts are implemented in this repository
   </None>
 </ItemGroup>
 `
-- Implement the Logging functionality. 
-- Build and Run the program. 
-
 ## Author 
-**Bhagya Sri Ramkumar**
+Bhagya Sri Ramkumar
